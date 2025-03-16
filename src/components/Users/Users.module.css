@@ -1,0 +1,19 @@
+.userphoto {
+    width: 70px;
+    height: 70px;
+}
+
+.btn {
+  margin-bottom: 10px;
+  background-color: brown;
+  color: white;
+}
+
+.btn:focus {
+    background-color: brown;
+    color: white;
+}
+
+.users {
+    margin-left: 3px;
+}

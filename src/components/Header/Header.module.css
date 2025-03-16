@@ -1,0 +1,21 @@
+.header{
+    grid-area: h;
+    background: linear-gradient(90deg, #6e1124 0%, #a9af55 100%);
+}
+
+.header img{
+    margin-left: 5px;
+    padding: 5px;
+    width: 50px;
+    height:50px;
+}
+
+.loginBlock {
+  float: right;
+  margin-right: 5px;
+}
+
+
+
+
+  

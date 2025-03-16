@@ -1,0 +1,24 @@
+.nav { 
+    grid-area: n;
+    background: linear-gradient(180deg, #116e3e 0%, #af55ac 100%);
+    padding: 20px;
+   }
+
+.item {
+    color: rgb(17, 157, 232);
+}
+
+.active {
+    color: rgb(221, 232, 17);
+}
+
+.item a {
+    text-decoration: none;
+}
+
+.fri {
+    margin-top: 20px;
+    color: rgb(17, 157, 232);
+}
+
+

@@ -1,0 +1,24 @@
+.mybtn{
+    text-align: center; 
+    margin-left:  0px;
+    padding: 5px 10px; 
+    border: solid 1px #777777; 
+    color: black; 
+    background:white;
+    
+    
+}
+.mybtn:hover {
+    color: #fff;
+    background: #333;
+   
+    
+}
+
+.content{
+    padding: 10px;
+}
+
+.posts {
+    padding-top: 10px;
+}
